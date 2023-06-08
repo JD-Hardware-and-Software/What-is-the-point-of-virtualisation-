@@ -1,0 +1,13 @@
+Now, I am going to give you my opinion on virtualisation software such as VM Ware Workstation, VirtualBox, or Microsoft Hyper-V. I just want to state that I appreciate the fact that the software is free.
+
+Now, here is what I think:
+
+Virtualisation software is an excellent tool that does the world quite a bit of good. There are numerous advantages to taking advantage of virtualisation, such as:
+
+Saving money on resources, such as saving money on buying new computers.
+Keeping legacy support systems running, mainly so you can use software that no longer works on modern operating systems.
+You can run several VMs on an onsite physical server, which reduces the load (computing, electrical) which not only increases the lifespan of a server, but it also saves space.
+One of the biggest strengths of virtualisation is the ability to create a safe sandbox environment, should you follow the correct isolation and networking protocols.
+Scalability is a massive utility of virtualisation since you can control the amount of resource utilization a certain task needs, which is great for efficiency and more importantly, flexibility.
+
+Anyway, that is my opinion on that. Also, is it "virtualisation" or "virtualization"? The academia seems to be unclear on the topic, so feel free to correct me. 
